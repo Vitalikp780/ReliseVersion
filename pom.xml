@@ -55,7 +55,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <localCheckout>false</localCheckout>
-                    <pushChanges>true</pushChanges>
+                    <pushChanges>false</pushChanges>
                     <tagNameFormat>v@{project.version}</tagNameFormat>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
                     <releaseProfiles>releases</releaseProfiles>
