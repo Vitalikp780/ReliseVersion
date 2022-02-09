@@ -18,8 +18,8 @@
 
     <scm>
         <connection>scm:git:git@github.com:Vitalikp780/ReliseVersion.git</connection>
-        <developerConnection>scm:git:https://github.com/Vitalikp780/ReliseVersion.git</developerConnection>
-        <url>scm:git:https://github.com/Vitalikp780/ReliseVersion</url>
+        <developerConnection>scm:git:https:git@github.com/Vitalikp780/ReliseVersion.git</developerConnection>
+        <url>https://github.com/Vitalikp780/ReliseVersion</url>
         <tag>@{project.version}</tag>
     </scm>
 
