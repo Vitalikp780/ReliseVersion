@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>ReliseVersion</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.4</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -20,7 +20,7 @@
         <connection>scm:git:git@github.com:Vitalikp780/ReliseVersion.git</connection>
         <developerConnection>scm:git:https:git@github.com/Vitalikp780/ReliseVersion.git</developerConnection>
         <url>https://github.com/Vitalikp780/ReliseVersion</url>
-        <tag>@{project.version}</tag>
+        <tag>v0.4</tag>
     </scm>
 
     <build>
